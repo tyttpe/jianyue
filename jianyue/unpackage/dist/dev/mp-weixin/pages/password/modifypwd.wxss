@@ -1,0 +1,10 @@
+
+.pwd{
+	margin: 20px 15px auto;
+	height: 30px;
+}
+.btn{
+	margin-top: 20px;
+	width: 90%;
+}
+

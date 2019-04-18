@@ -1,0 +1,1 @@
+<template name="2702a670"><view class="_div 2702a670"><input type="text" value="{{nickname}}" bindinput="handleProxy" class="_input 2702a670 nickname" placeholder=" 输入昵称" data-eventid="{{'2702a670-0'}}" data-comkey="{{$k}}" /><button type="primary" bindtap="handleProxy" class="_button 2702a670 btn" data-eventid="{{'2702a670-1'}}" data-comkey="{{$k}}">保存</button></view></template>

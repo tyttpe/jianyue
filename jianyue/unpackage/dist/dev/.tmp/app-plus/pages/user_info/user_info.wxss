@@ -1,0 +1,21 @@
+
+.list-item-heigher {
+	height: 80px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.left {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1 1 30%;
+	    -ms-flex: 1 1 30%;
+	        flex: 1 1 30%;
+}
+.right {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1 1 70%;
+	    -ms-flex: 1 1 70%;
+	        flex: 1 1 70%;
+}
+

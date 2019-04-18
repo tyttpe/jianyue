@@ -1,0 +1,1 @@
+<template name="2702a670"><view class="_div 2702a670"><input type="text" value="{{nickname}}" bindinput="handleProxy" data-eventid="{{'2702a670-0'}}" data-comkey="{{$k}}" class="_input 2702a670" /><button type="primary" bindtap="handleProxy" data-eventid="{{'2702a670-1'}}" data-comkey="{{$k}}" class="_button 2702a670">保存</button></view></template>

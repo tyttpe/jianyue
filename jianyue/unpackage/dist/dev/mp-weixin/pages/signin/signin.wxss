@@ -1,0 +1,22 @@
+
+.nav.data-v-5ff453b4 {
+	color: #00b26a;
+	margin-top: 15px;
+	margin-left: 15px;
+	font-size: 15px;
+}
+.uni-input.data-v-5ff453b4{
+	margin: 10px 15px auto;
+	height: 30px;
+	font-size: 15px;
+}
+.green-btn.data-v-5ff453b4{
+	width: 90%;
+	margin-top: 10px;
+}
+.top.data-v-5ff453b4{
+	margin: 20px 0 auto;
+	font-size: 25px;
+	text-align: center;
+}
+

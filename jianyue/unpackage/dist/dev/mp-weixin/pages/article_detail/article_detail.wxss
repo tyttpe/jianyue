@@ -1,0 +1,131 @@
+
+.content {
+		margin-bottom: 10px;
+		margin-top: 10px;
+		padding: 5px;
+		border-bottom: 1px solid #eee;
+}
+.img-list {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: column;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+}
+.img-item {
+		width: 100%;
+		height: 150px;
+		margin-bottom: 5px;
+}
+.img-item image {
+		width: 100%;
+		height: 100%;
+		border-radius: 5px;
+}
+.comment-item {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		/* align-items: center; */
+		border-bottom: 1px solid #eee;
+		margin-bottom: 10px;
+		padding: 5px;
+}
+.comment-item .left {
+		-webkit-box-flex: 1;
+		-webkit-flex: 1 1 15%;
+		    -ms-flex: 1 1 15%;
+		        flex: 1 1 15%;
+}
+.comment-item .left image{
+		height: 40px;
+		width: 40px;
+}
+.comment-item .right {
+		-webkit-box-flex: 1;
+		-webkit-flex: 1 1 85%;
+		    -ms-flex: 1 1 85%;
+		        flex: 1 1 85%;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: column;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+}
+.comment-item .right .right-name{
+		font-weight: 600;
+}
+.comment-item .top{
+		color: #999999;
+		font-size: 12px;
+		margin-top: 5px;
+}
+.comment-box {
+		border: 1px solid #fff;
+		border-radius: 5px;
+		background-color: #eee;
+}
+.follow-btn {
+		height: 33px;
+		width: 80px;
+		font-size: 12pt;
+		text-align: center;
+		padding-bottom: 20px;
+		margin-right: 0px;
+		margin-top: 4px;
+}
+.cancel {
+		background-color: #aaa;
+		margin-top: 4px;
+}
+.uni-input.comment-box{
+		height: 60px;
+		background-color: #F6F6F6;
+		width: 100%;
+}
+.article-title{
+		font-size: 25px;
+		font-weight: 600;
+}
+.article-info{
+		margin-top: 10px;
+}
+.article-info-top{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack: justify;
+		-webkit-justify-content: space-between;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
+		height: 40px;
+		margin-bottom: 10px;
+}
+.info-top-left image{
+		height: 100%;
+		width: 40px;
+}
+.info-text{
+		text-align: right;
+		color: #999999;
+}
+.nickname{
+		font-size: 20px;
+		position: absolute;
+        margin-top: 3%;
+		margin-left: 3%;
+}
+.grace-text{
+		font-size: 15px;
+}
+

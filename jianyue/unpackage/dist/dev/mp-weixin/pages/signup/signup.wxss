@@ -1,0 +1,41 @@
+
+.sign-box {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		    -ms-flex-align: center;
+		        align-items: center;
+		margin-top: 5px;
+}
+.uni-input{
+		margin: 10px 15px auto;
+		height: 30px;
+		font-size: 15px;
+}
+.uni-input.left {
+}
+.small-btn {
+		font-size: 13.5px;
+		padding-top: 2px;
+}
+.temp {
+		font-size: 13.5px;
+}
+.green-btn {
+		width: 90%;
+		margin-top: 10px;
+}
+.green-btn.small-btn.right{
+		width: 40%;
+		height: 40px;
+		margin-right: 14px;
+}
+.top{
+		margin: 20px 0 auto;
+		font-size: 25px;
+		text-align: center;
+}
+
