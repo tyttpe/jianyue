@@ -68,8 +68,8 @@ public class UserController {
     public String ossUpload(@RequestParam("file") MultipartFile sourceFile, @RequestParam("userId") int userId) {
         System.out.println(userId);
         String endpoint = "http://oss-cn-hangzhou.aliyuncs.com";
-        String accessKeyId = "LTAIRf6ykeToGFIY";
-        String accessKeySecret = "pK2iLWVVrPApJ3JTWxaBuqtfUfVmJ0";
+        String accessKeyId = "**";
+        String accessKeySecret = "**";
         String bucketName = "tyttpe";
         String filedir = "avatar/";
         // 获取文件名
