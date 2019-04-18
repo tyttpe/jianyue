@@ -22,7 +22,7 @@ public class SMSTest {
         request.setVersion("2017-05-25");
         request.setAction("SendSms");
         request.putQueryParameter("RegionId", "cn-hangzhou");
-        request.putQueryParameter("PhoneNumbers", "17805135860");
+        request.putQueryParameter("PhoneNumbers", "**");
         request.putQueryParameter("SignName", "**");
         request.putQueryParameter("TemplateCode", "SMS_162735611");
         request.putQueryParameter("TemplateParam", "{\"code\":\"888888\"}");
